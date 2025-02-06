@@ -51,11 +51,3 @@ CUDA_VISIBLE_DEVICES=0 python demo.py --config config/vox-256.yaml --checkpoint 
 The main code is based upon [FOMM](https://github.com/AliaksandrSiarohin/first-order-model) and [TPSMM](https://github.com/snap-research/articulated-animation)
 
 Thanks for the excellent works!
-
-And Thanks to:
-
-- [@chenxwh](https://github.com/chenxwh): Add Web Demo & Docker environment [![Replicate](https://replicate.com/yoyo-nb/thin-plate-spline-motion-model/badge)](https://replicate.com/yoyo-nb/thin-plate-spline-motion-model) 
-
-- [@TalkUHulk](https://github.com/TalkUHulk): The C++/Python demo is provided in [Image-Animation-Turbo-Boost](https://github.com/TalkUHulk/Image-Animation-Turbo-Boost)
-
-- [@AK391](https://github.com/AK391): Add huggingface web demo [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model)
